@@ -6,6 +6,8 @@ import Bestsellers from "./Bestsellers";
 import Floyd from "./Floyd";
 import Reviews from "./Reviews";
 import Ease from "./Ease";
+import Feather from "./Feather";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
       <Floyd />
       <Reviews />
       <Ease />
+      <Feather />
+      <Footer />
     </>
   );
 }
