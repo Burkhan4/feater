@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
 .container {
-    @apply max-w-290.25;
+    @apply max-w-7xl;
     @apply m-auto;
 }
